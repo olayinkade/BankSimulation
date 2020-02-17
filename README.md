@@ -1,1 +1,2 @@
-# BankSimulation
+# Introduction
+Using socket and Datagrams to transfer bank requests from the client to the server. Different variations of server. A variation using threads to process multiple clients, and ensuring that locks are properly placed to make sure that the same information is not accessed and changed by the different clients at the same time. Another variation is using clients from diffent languages in the case perl
